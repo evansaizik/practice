@@ -1,2 +1,9 @@
 Hello world
 This will be uploaded to GitHub
+So I was able to push this file to git successfully after series of trials
+I switched from HTTPS to SSH protocol
+Created a host key on SSH protocol through a youtube video I watched
+i still experienced some issues with pushing repository,
+Just as a way of troubleshooting, I deleted the previously created remote repository
+I created a new remote repo and I created a new file and I was able to push it successfully,
+It seemed the new remote repo I created was registered with the new SSH key and it was in sync with git
