@@ -9,4 +9,4 @@ I created a new remote repo and I created a new file and I was able to push it s
 It seemed the new remote repo I created was registered with the new SSH key and it was in sync with git
 
 so I'm trying to work on a new branch
-Still experiencing some funny issues
+Still experiencing some funny issues.
